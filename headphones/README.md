@@ -6,12 +6,6 @@ This project is a front-end web development exercise where I implemented a fully
 
 In this project, I created a web page that closely follows the provided design specifications. The webpage adapts to different screen sizes, switching to a mobile-friendly layout when the screen width is 480px or less.
 
-### Font Resources
-
-The following fonts were used in this project:
-
-- [**Source Sans Pro**](https://github.com/esmizz/alx_html_css/tree/main/headphones/fonts/source-sans-pro)
-- [**Spin Cycle OT**](https://github.com/esmizz/alx_html_css/tree/main/headphones/fonts/Spin-Cycle-OT)
 
 ### Interactions
 
